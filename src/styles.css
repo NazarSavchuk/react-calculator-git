@@ -6,6 +6,7 @@
 
 body {
   margin: 0;
+  padding: 64px;
   background: rgb(131, 58, 180);
   background: -moz-linear-gradient(
     144deg,
